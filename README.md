@@ -1,1 +1,7 @@
-# Portfolio
+﻿Cześć, nazywam się Łukasz Matoga i od kilkunastu lat jestem związany zawodowo z elektroniką, a dokładnie z pracą przy urządzeniach wysokiej niezawodności. Budowałem m.in. instrumenty pomiarowe do bolidów wyścigowych, aparatury nawigacyjne wykorzystywane w sektorze wojskowym, urządzenia przeznaczone na rynek lotniczy, a także satelity telekomunikacyjne. W wolnych chwilach gram na perkusji, słucham analogowych płyt i zajmuję się działaniami artystycznymi.
+
+Szukając nowych wyzwań oraz wachlarza możliwości rozwojowych zainteresowałem się procesem wytwarzania oprogramowania, a szczególnie rolą testera, którego predyspozycje zawodowe pokrywają się z posiadanymi przeze mnie kompetencjami. Od tego czasu brałem udział w kursach i szkoleniach a zdobywane umiejętności wykorzystywałem na platformach crowdtestingowych. Moim celem jest zamiana pasji w profesję oraz ciągłe poszerzanie wiedzy, czego przykładem są m.in. konferencje branżowe, na których miałem okazję uczestniczyć. Chciałbym również w przyszłości uzyskać certyfikat ISTQB, który będzie potwierdzeniem zrozumienia przeze mnie procesów oraz technik związanych z testowaniem.
+
+W tym miejscu będę umieszczał informację o nowo nabytych umiejętnościach, poznawanych przeze mnie narzędziach, o kursach, szkoleniach oraz o nadchodzących wydarzeniach, na których będzie można mnie spotkać i porozmawiać.
+
+Jeśli nie znalazłeś tutaj nic interesującego, proszę wróć za jakiś czas. Zachęcam również do śledzenia moich postępów na bieżąco. Jeśli chciałbyś podzielić się ze mną jakąś cenną radą lub pomóc w dalszym rozwoju - śmiało pisz!
